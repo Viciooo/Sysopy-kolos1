@@ -22,15 +22,15 @@ main(int argc, char *argv[])
 			printf("lstat error");
 			continue;
 		}
-		if ( /* TU UZUPELNIC warunek rozpoznajacy zwykly plik*/)
-			tekst = "zwykly plik";
-		else if ( /* TU UZUPELNIC warunek rozpoznajacy katalog*/)
-			tekst = "katalog";		
-		else if (/* TU UZUPELNIC warunek rozpoznajacy link symboliczny*/)
-			tekst = "link symboliczny";
-				else
-			tekst = "**** cos innego !!! ****";
-		printf("%s\n", tekst);
+        if (S_ISREG(buf.st_mode))
+            tekst = "zwykly plik";
+        else if (S_ISDIR(buf.st_mode))
+            tekst = "katalog";
+        else if (S_ISLNK(buf.st_mode))
+            tekst = "link symboliczny";
+        else
+            tekst = "**** cos innego !!! ****";
+        printf("%s\n", tekst);
 	}
 	exit(0);
 }

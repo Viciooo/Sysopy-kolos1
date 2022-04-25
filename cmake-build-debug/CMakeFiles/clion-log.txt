@@ -1,1 +1,1 @@
-CMakeLists.txt not found in C:\Users\Piotr\Desktop\4_semestr\SysOpy\Kolos1 Select CMakeLists.txt
+CMakeLists.txt not found in /home/igsit/CLionProjects/Sysopy-kolos1 Select CMakeLists.txt
