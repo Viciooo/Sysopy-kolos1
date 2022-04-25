@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/igsit/CLionProjects/Sysopy-kolos1 Select CMakeLists.txt
