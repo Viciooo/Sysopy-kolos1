@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Piotr\Desktop\4_semestr\SysOpy\Kolos1 Select CMakeLists.txt
