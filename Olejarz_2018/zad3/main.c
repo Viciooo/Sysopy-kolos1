@@ -24,11 +24,7 @@ int main(int argc, char* argv[]) {
     * wykonaj  tr "a-z" "A-Z", w przypadku błędu  obsłuż go i wyjdź, zwracając 3.
    */
 
-
-
-
-
-
+   // TO SAMO co Koźlak 1 2018 !!!!!!!!!!!
 
    /* koniec */
        	 }
