@@ -7,4 +7,4 @@ zad2:
 clean:
 	rm -rf zad2
 
-# ./zad2 "zad2.c"
+# ./zad2_solved "zad2_solved.c"

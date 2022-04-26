@@ -3,6 +3,8 @@
 #include <time.h>
 #include <dlfcn.h>
 
+#include "bibl1.h"
+
 int main (int l_param, char * wparam[]){
   int i;
 /*

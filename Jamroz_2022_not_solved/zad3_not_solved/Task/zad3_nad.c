@@ -9,7 +9,7 @@
 int i=0;
 /*
 program przy kazdym uzyciu klawiszy ctrl-c ma wyslac przez potok
-nazwany 'potok1' zawarto¶æ zmiennej 'i' */
+nazwany 'potok1' zawartoÅ›Ä‡ zmiennej 'i' */
 
 //
 //

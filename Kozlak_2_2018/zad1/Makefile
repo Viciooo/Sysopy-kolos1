@@ -10,4 +10,4 @@ zad1:
 clean:
 	rm -rf zad1
 
-# ./zad1 "grep *"
+# ./zad1_not_solved "grep *"
