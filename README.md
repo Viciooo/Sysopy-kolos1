@@ -5,8 +5,9 @@ Rozwiązania pierwszego kolosa z poprzednich lat
 - **@lpawlak1** https://github.com/lpawlak1
 - **@Y3drk** https://github.com/Y3drk
 - **@kacperklusek** https://github.com/kacperklusek
-- **bdoncer** https://github.com/bdoncer
+- **@bdoncer** https://github.com/bdoncer
 - **MaxSulima** nie mam linku do profilu :(
+- **@pkowalczyk1** https://github.com/pkowalczyk1
 
 
 ## Wanted kolosy:
