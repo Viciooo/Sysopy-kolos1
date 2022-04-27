@@ -24,6 +24,7 @@ void set_handler(void){
     struct sigaction action;
     action.sa_sigaction = &handler;
     sighold(SIGPIPE);
+    action.sa_flags = SA_SIGINFO;
     sigaction(SIGUSR1, &action, NULL);
     // Uzupelnij cialo funkcji set_handler zgodnie z
     // komentarzem powyzej
